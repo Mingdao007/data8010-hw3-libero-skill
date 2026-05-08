@@ -1,0 +1,5 @@
+interface:
+  display_name: "DATA8010 HW3 LIBERO"
+  short_description: "Reusable LIBERO BC homework workflow"
+  default_prompt: "Use $data8010-hw3-libero to audit a LIBERO behavior-cloning homework repo, rebuild the report, and package clean deliverables."
+
